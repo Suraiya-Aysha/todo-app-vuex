@@ -1,4 +1,5 @@
-# Todo App Vuex - I used Vuex State Management Pattern for managing state of this application
+# Todo App Vuex
+## I used Vuex State Management Pattern for managing state of this application
 ### Live Demo link - https://todo-app-vuex.netlify.app/
 
 ## Project setup
